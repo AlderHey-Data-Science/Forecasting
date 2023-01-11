@@ -46,14 +46,13 @@ Here's How:
 * Users define number of steps to predict, number to train and so on giving the user full control of their predictions.
 * Template runs models fast giving results efficiently and accurately!
 
-Of course, no one time series regression template will serve all projects since your needs may be different. So I'll be adding more in the near future!
-
-`DataPGrady`, `Anywhere/TimeSeriesRegression`, `@patgrady14`, `Patrick Grady`, `email_client`, `patgr@live.co.uk`, `Time Series Regression Template Using XGBoost & ARIMA`, `Easy to use template for everyone`
+Please Note, no one time series regression template will serve all projects since your needs may be different.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 * Python 
+* Jupyter Notebooks
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
