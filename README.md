@@ -10,11 +10,6 @@ variable automatially output to csv. Users should be able to define the number o
 the length of split and their target column. Once defined the program should run giving the user a mean absolute error value
 used to evaluate the models performance based on the data the user has fed into the script.
 
-## Univariate Data 
-Univariate data can be defined as data that consits of one variable. When modelling time series data we usually have at least
-one date column and at very least one target value column. As such the date column will need to be dropped before passing through 
-the models. 
-
 ## Time Series
 Simply put time series data is data that is measured across a certain time scale, for example, seconds, minutes, hours, days, weeks,
 months, years and so on. 
