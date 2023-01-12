@@ -14,10 +14,6 @@ used to evaluate the models performance based on the data the user has fed into 
 Simply put time series data is data that is measured across a certain time scale, for example, seconds, minutes, hours, days, weeks,
 months, years and so on. 
 
-## XGBoost Vs. ARIMA Template
-Specific README for XGBoost Vs. ARIMA Template has been uploaded and contains details specific to these models. Please check out 
-XGBoost Vs. ARIMA Template for user guide and specification detailing more information.
-
 ## Prerequisites
 * Data must be of two columns (X and y), first column (x) must be named 'Date' and hold datetime value while the second column (y)
 must hold numeric data and user defines name of (y) column in template.
