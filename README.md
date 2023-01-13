@@ -12,7 +12,8 @@ used to evaluate the models performance based on the data the user has fed into 
 
 ## Time Series
 Simply put time series data is data that is measured across a certain time scale, for example, seconds, minutes, hours, days, weeks,
-months, years and so on. 
+months, years and so on. To turn time series data into a supervised learning problem it must be processed through the 'Sliding Window'
+technique. The sliding window technique uses previous time steps as input variables and use the next time step as the output variable.
 
 ## Prerequisites
 * Data must be of two columns (X and y), first column (x) must be named 'Date' and hold datetime value while the second column (y)
