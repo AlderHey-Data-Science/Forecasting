@@ -1,7 +1,7 @@
-<h3 align="center">Template for Time Series Regression using XGBoost & ARIMA</h3>
+<h3 align="center">Template for Time Series Regression using XGBoost</h3>
 
   <p align="center">
-    User Guide & Spec for Time Series Template
+    User Guide & Spec for Time Series Template Using XGBoost
     <br />
     <a href="https://github.com/AlderHey-Data-Science/Forecasting"><strong>Explore the docs »</strong></a>
     <br />
@@ -42,11 +42,11 @@
 There are many great tutorials on time series regression out there, however the majority disregard the users end goals and many relay information across in a confusing and clustered way. This template helps to eliminate confusion and make running regression models easy for everyone!
 
 Here's How:
-* Your time should be focused on delivering results through the most accurate methods possible. As such this regression template evaluates whcih model is better for YOUR data; XGBoost or ARIMA?
+* Your time should be focused on delivering results through the most accurate methods possible. As such this regression template evaluates the use of XGBoost to tackle time series regression.
 * Users define number of steps to predict, number to train and so on giving the user full control of their predictions.
 * Template runs models fast giving results efficiently and accurately!
 
-Of course, no one time series regression template will serve all projects since your needs may be different. So I'll be adding more in the near future!
+Of course, no one time series regression template will serve all projects since your needs may be different. So, note a different model may be neccessary to fit your data!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -56,7 +56,7 @@ Of course, no one time series regression template will serve all projects since 
 
 <!-- GETTING STARTED -->
 ## Getting Started
-Firstly it is recommended users have a slight grasp of Python syntax! This templae was created for Alder Hey Innovation Trust with the hope of using on patient data.
+Firstly it is recommended users have a slight grasp of Python syntax! This templae was created for Alder Hey Innovation Trust with the hope of improving accuracy on regression tasks through the use of XGBoost.
 
 ### Prerequisites
 
