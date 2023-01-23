@@ -17,6 +17,7 @@
     <li>
       <a href="#about-the-project">What is SKTIME?</a>
       <ul>
+        <li><a href="#advantages-of-using-sktime">Advantages of Using sktime</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
