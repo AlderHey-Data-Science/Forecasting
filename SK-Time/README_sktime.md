@@ -46,12 +46,12 @@ Sktime is an open-source toolbox for time series modelling. It combines function
 * It allows users to easily implement, analyse and compare new models. It helps to avoid confusion in choosing an appropriate algorithm thanks to a clear classification of forecasters.
 * It makes the workflow readable and understandable as all forecasters share a common interface. They are implemented in separate classes, as in other toolboxes, including scikit-learn. 
 * It enables altering forecasters in a workflow. This saves us from adjusting the structure of our code each time we change our model.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ### Built With
 * Python (sktime package)
 * Jupyter Notebooks
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -82,10 +82,6 @@ The template has been designed with ease of use in mind. To use the template:
 
 See the open issues for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -109,10 +105,6 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See LICENSE.txt for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- CONTACT -->
 ## Contact
 
@@ -120,7 +112,5 @@ Alder Hey Data Science Team - datascientists@alderhey.nhs.uk
 GitHub: AlderHey-Data-Science
 **OR**
 GitHub: Alder-Hey-Innovation-Centre
-
-Project Link: [https://github.com/AlderHey-Data-Science/Forecasting/Tree/main/SK-Time](https://github.com/AlderHey-Data-Science/Forecasting/Tree/main/SK-Time)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
