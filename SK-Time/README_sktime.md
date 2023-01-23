@@ -121,6 +121,6 @@ GitHub: AlderHey-Data-Science
 **OR**
 GitHub: Alder-Hey-Innovation-Centre
 
-Project Link: [https://github.com/AlderHey-Data-Science/Forecasting/SK-Time.ipynb](https://github.com/AlderHey-Data-Science/Forecasting/SK-Time)
+Project Link: [https://github.com/AlderHey-Data-Science/Forecasting/SK-Time](https://github.com/AlderHey-Data-Science/Forecasting/SK-Time)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
