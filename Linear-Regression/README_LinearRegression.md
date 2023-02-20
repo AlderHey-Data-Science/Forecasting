@@ -17,6 +17,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
+        <li><a href="#about-linReg">About Linear Regression - Ordinary Least Squares</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
@@ -39,16 +40,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-There are many great tutorials on time series regression out there, however the majority disregard the users end goals and many relay information across in a confusing and clustered way. This template helps to eliminate confusion and make running regression models easy for everyone!
-
-Here's How:
-* Your time should be focused on delivering results through the most accurate methods possible. As such this regression template uses Linear Regression (OLS) model to tackle time series regression.
-* Users define number of steps to predict, number to train and so on giving the user full control of their predictions.
-* Template runs model fast giving results efficiently and accurately!
-
-Of course, no one time series regression template will serve all projects since your needs may be different. Note: A different model may be better suited to YOUR data!
+This project aims to ease time series forecasting through the use of OLS Linear Regression Model.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## About Linear Regression - Ordinary Least Squares
+* OLS (Ordinary Least Square) is a simple regression model method that calculates a trend line by minimizing the sum of the squares of the differences between the observed dependent variable and the predicted dependent variable.
+* This time series forecast option is good for when the user wants to see the linear trend of their data.
+* Note: Lin Reg (OLS) does not control for noise or outliers, it simply uses all data to generate a linear regression line.
 
 ### Built With
 * Python 
