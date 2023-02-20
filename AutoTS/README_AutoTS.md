@@ -48,6 +48,7 @@
 
 * Automatically builds tens to hundreds of different variation models for algorithms specified by the user and includes ensemble models of these displayed with metric calculations, what model it’s for, the parameters for that model, the run time and an overall score in an easy-to-read table format once read to excel/csv.
 * Easiest library to use out of the three, simply call-in data, process into specified format, perform split for training and testing, specify models to use then build AutoTS model and fit on training data. Once run, you can print best model and output evaluation to excel/csv for further analysis.
+* AutoTS automatically builds ensembles of different parameters from the models in which you define in the script.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
