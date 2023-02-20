@@ -17,6 +17,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
+        <li><a href="#about ARIMA">
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
@@ -39,7 +40,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-There are many great tutorials on time series regression out there, however the majority disregard the users end goals and many relay information across in a confusing and clustered way. This template helps to eliminate confusion and make running regression models easy for everyone!
+This tutorial aims to ease the use of ARIMA algorithm for time series forecasting on univariate data!
 
 Here's How:
 * Your time should be focused on delivering results through the most accurate methods possible. As such this regression template uses ARIMA model to tackle time series regression.
@@ -50,6 +51,9 @@ Of course, no one time series regression template will serve all projects since 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+##About ARIMA
+* Arima is short for Auto-Regressive Integrated Moving Average, which is a forecasting algorithm based on the assumption that previous values carry inherent information and can be used to predict future values.
+ 
 ### Built With
 * Python 
 * Jupyter Notebooks
