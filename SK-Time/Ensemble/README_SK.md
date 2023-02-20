@@ -1,1 +1,1 @@
-## Using Ensmebling Forecaster for sktime library.
+## Using Ensembling Forecaster from sktime library.
