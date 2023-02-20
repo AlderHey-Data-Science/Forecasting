@@ -17,6 +17,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
+        <li><a href="#about-xgboost">About XGBoost</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
@@ -39,16 +40,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-There are many great tutorials on time series regression out there, however the majority disregard the users end goals and many relay information across in a confusing and clustered way. This template helps to eliminate confusion and make running an XGBoost Regression model clear and easy to follow.
-
-Here's How:
-* Your time should be focused on delivering results through the most accurate methods possible. As such this regression template uses XGBoost to tackle time series regression.
-* Users define number of steps to predict, number to train and so on giving the user full control of their predictions.
-* Template runs model fast giving results efficiently and accurately!
-
-Of course, no one time series regression template will serve all projects since your needs may be different. Note: a different regression model may be better suited for YOUR data!
+This projects aims to ease time series forecasting through the use of XGBoost.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## About XGBoost
+* XGBoost is short for Extreme Gradient Boosting and is an efficient implementation of the stochastic gradient boosting machine learning algorithm.
+* It is an ensemble of decision trees algorithm where new trees fix errors of those trees that are already part of the model. 
+* Trees are added until no further improvements can be made to the model.
 
 ### Built With
 * Python 
