@@ -17,7 +17,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#about ARIMA">
+        <li><a href="#about ARIMA">About ARIMA</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
