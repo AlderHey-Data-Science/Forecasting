@@ -51,7 +51,7 @@ Of course, no one time series regression template will serve all projects since 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-##About ARIMA
+## About ARIMA
 * Arima is short for Auto-Regressive Integrated Moving Average, which is a forecasting algorithm based on the assumption that previous values carry inherent information and can be used to predict future values.
  
 ### Built With
