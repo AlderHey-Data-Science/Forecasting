@@ -3,23 +3,25 @@
 
 
 ## Project Description
-This project aims to address univariate time series regression through the use of different algorithms such as XGBoost,
-ARIMA, Prophet and Linear Regression. These models will be in template format allowing the users of these templates to
-load in their relevant data, define specific variables meeting the needs of their data and get predictions for their target 
-variable automatially output to csv. Users should be able to define the number of steps to predict, the length of train, 
-the length of split and their target column. Once defined the program should run giving the user a mean absolute error value
-used to evaluate the models performance based on the data the user has fed into the script.
+This project aims to explore and address univariate time series forecasting through the use of different algorithms, some new such as XGBoost 
+and Prophet amongst older trusted models such as Linear Regression and ARIMA. These models will be in template format allowing the users of 
+these templates to load in their relevant data, define specific variables meeting the needs of their data and get predictions for their target 
+variable automatially output to csv. Asides from isolated models Python Time Series libraries will also be investigated, these being sktime, AutoTS
+& Darts. After which an evaluation can be drawn to see what models and or packages perform the best across a range of time-scaled data from monthly, 
+daily and hourly data. This will then hope to give users insight into what model or package best suits their data and what model / package is the most 
+trusted.
 
 ## Time Series
-Simply put time series data is data that is measured across a certain time scale, for example, seconds, minutes, hours, days, weeks,
-months, years and so on. To turn time series data into a supervised learning problem it must be processed through the 'Sliding Window'
-technique. The sliding window technique uses previous time steps as input variables and use the next time step as the output variable.
+Simply put, time series data is data that is measured across a certain time scale, for example, seconds, minutes, hours, days, weeks,
+months, years and so on. Some scripts require us to transform time series data into supervised learning data. To turn time series data 
+into a supervised learning problem it must be processed through the 'Sliding Window' technique. The sliding window technique uses previous 
+time steps as input variables and use the next time step as the output variable.
 
 ## Prerequisites
 * Data must be of two columns (X and y), first column (x) must be named 'Date' and hold datetime value while the second column (y)
 must hold numeric data and user defines name of (y) column in template.
-* When using template user must ensure that the following imports have been downloaded and are ready for use in Python evironment,
-these imports are; Panadas, NumPy, xgboost, sklearn, datetime, dateutil and statsmodels.
+* When using template user must ensure that the correct imports have been installed and are ready to go.
+
 
 ## Contributing
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make
