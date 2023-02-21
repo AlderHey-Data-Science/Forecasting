@@ -25,6 +25,20 @@ Stationary usually refers to time series data. A time series is stationary if it
 3. Differencing 
 
 See 'stationarity_check' script in 'Forecasting' repo for more on checking that your data is stationary.
+
+## Seasonality 
+A recurring pattern with a defined and predictable regularity dependent on the time of year, week or dayis reffered to as seasonality. This is different from regular cyclic trends, such as the rise and fall of stock prices, that re-occur regularly but don’t have a fixed period. An example of this might be temperature in weather data - very simply every summer the temp increases and every winter the temp subsequently decreases. 
+
+* Seasonality can be viewed by simply plotting your dataset and viewing any seasonal patterns that might show.
+
+## Trend 
+Trend is a pattern in data that shows the movement of a series to relatively higher or lower values over a long period of time. Trend usually happens for some time and then disappears, it does not repeat. A trend could be:
+1. Uptrend - Time Series Analysis shows a general pattern that is upward.
+2. Downtrend - Time Series Analysis shows a general pattern that is downward.
+3. Horizontal / Stationary Trend - If no pattern is observed then it's called a Horizontal or stationary trend.
+
+* Trend in your data can be visualised by simply plotting the dataset. This will give you an indication as to what trend your data has!
+
 ## Prerequisites
 * Data must be of two columns (X and y), first column (x) must be named 'Date' and hold datetime value while the second column (y)
 must hold numeric data and user defines name of (y) column in template.
