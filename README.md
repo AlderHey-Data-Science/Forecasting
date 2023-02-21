@@ -24,7 +24,7 @@ Stationary usually refers to time series data. A time series is stationary if it
 2. Kwiatkowski Phillips Schmidt Shin Test (KPSS)
 3. Differencing 
 
-See 'check_stationarity' script in 'Forecasting' repo for more on checking that your data is stationary.
+See 'stationarity_check' script in 'Forecasting' repo for more on checking that your data is stationary.
 ## Prerequisites
 * Data must be of two columns (X and y), first column (x) must be named 'Date' and hold datetime value while the second column (y)
 must hold numeric data and user defines name of (y) column in template.
