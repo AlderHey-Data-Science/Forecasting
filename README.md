@@ -17,6 +17,14 @@ months, years and so on. Some scripts require us to transform time series data i
 into a supervised learning problem it must be processed through the 'Sliding Window' technique. The sliding window technique uses previous 
 time steps as input variables and use the next time step as the output variable.
 
+## Stationarity
+Stationary usually refers to time series data. A time series is stationary if it has no trend/drift i.e. it means that the data stays roughly constant over time. It's important your data is stationary, not only is it easier to analyse & predict a dataset with stationarity. If a series is consistently increasing over time, then the sample mean and variance will also grow with the size of the sample, and your model or the proposed time series solution will always underestimate the mean and variance in the furture periods. 
+* To check for stationarity there are a number of tests we can do, these include:
+1. Augmented Dickey Fuller Test (ADF)
+2. Kwiatkowski Phillips Schmidt Shin Test (KPSS)
+3. Differencing 
+
+See 'check_stationarity' script in 'Forecasting' repo for more on checking that your data is stationary.
 ## Prerequisites
 * Data must be of two columns (X and y), first column (x) must be named 'Date' and hold datetime value while the second column (y)
 must hold numeric data and user defines name of (y) column in template.
