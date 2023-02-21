@@ -66,4 +66,4 @@ GitHub: AlderHey-Data-Science
 **OR**
 GitHub: Alder-Hey-Innovation-Centre
 
-Project Link: [https://github.com/AlderHey-Data-Science/Forecasting/XGBoostTemplateFinal.ipynb](https://github.com/AlderHey-Data-Science/Forecasting)
+Project Link: [https://github.com/AlderHey-Data-Science/Forecasting](https://github.com/AlderHey-Data-Science/Forecasting)
